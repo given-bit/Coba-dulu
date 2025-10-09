@@ -1,2 +1,2 @@
-cobain buat branch
-Tambah commit
+Saya sedang cobain buat branch baru
+Tambahin commit dibranch baru
