@@ -1,3 +1,3 @@
 # Coba-dulu
-sedang mencoba
-sedang otak atik
+Saya sedang mencoba fitur-fitur Github 
+Saya sedang mencari tau fiturnya
